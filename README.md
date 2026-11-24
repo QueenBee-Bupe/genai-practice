@@ -84,7 +84,11 @@ A detailed account of development assistance, representative prompts, human revi
 
 ## 10. Demo Video
 
-Google Drive link: Pending upload.
+Google Drive link: ## 10. Demo Video
+
+[Watch the Surviving Autoimmunity Prototype Demo](https://drive.google.com/file/d/1jB-cEwrgdwFngLSCGUm9M2VKyuH4fyPK/view?usp=drive_link) 10. Demo Video
+
+[Watch the Surviving Autoimmunity Prototype Demo
 
 The demonstration will explain the intended user, central workflow, AI role, current limitations, and future development priorities.
 
